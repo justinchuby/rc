@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "lacroixdavid1.vscode-format-context-menu",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "njpwerner.autodocstring",
+        "shardulm94.trailing-spaces",
+        "usernamehw.errorlens",
+        "igorsbitnev.error-gutters",
+    ]
+}
