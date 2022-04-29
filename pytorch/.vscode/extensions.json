@@ -15,6 +15,7 @@
     "ryanluker.vscode-coverage-gutters",
     // Github review integration
     "GitHub.vscode-pull-request-github",
+    "eamodio.gitlens",
     // Show changed files between branches
     "letmaik.git-tree-compare",
   ]
