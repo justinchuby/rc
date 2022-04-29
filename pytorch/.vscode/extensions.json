@@ -1,11 +1,19 @@
 {
-    "recommendations": [
-        "lacroixdavid1.vscode-format-context-menu",
-        "ms-python.python",
-        "ms-python.vscode-pylance",
-        "njpwerner.autodocstring",
-        "shardulm94.trailing-spaces",
-        "usernamehw.errorlens",
-        "igorsbitnev.error-gutters",
-    ]
+  "recommendations": [
+    // Python
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "njpwerner.autodocstring",
+    // Markdown
+    "yzhang.markdown-all-in-one",
+    "DavidAnson.vscode-markdownlint",
+    // Coding style
+    "shardulm94.trailing-spaces",
+    // Linting display
+    "usernamehw.errorlens",
+    "igorsbitnev.error-gutters",
+    "ryanluker.vscode-coverage-gutters",
+    // Github review integration
+    "GitHub.vscode-pull-request-github",
+  ]
 }
